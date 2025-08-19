@@ -22,8 +22,8 @@ A FastAPI-based Retrieval-Augmented Generation (RAG) chatbot that allows users t
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
-   cd ahamed-safnas-rag_chatbot
+   git clone https://github.com/Ahamed-Safnas/RAG_Chatbot.git
+   cd RAG_Chatbot
    ```
 
 2. Create and activate a virtual environment:
